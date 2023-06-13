@@ -58,7 +58,7 @@ params:
     - js/external-link.js
     - js/alt-title.js
     - js/header-link.js
-  description: 少年与爱永不老去，即便披荆斩棘，丢失怒马鲜衣。
+  description: 不知天上宫阙，今夕是何年
   footer: '&copy; [AaronLau](https://iaaronlau.github.io/) 2023 | [Github](https://github.com/iAaronLau) | [Subscribe](https://iaaronlau.github.io/index.xml) | [Jinji](https://jinjipang.com)'
   highlightjsCDN: //cdn.bootcss.com
   highlightjsLang: ["r", "yaml", "tex", "shell", "python"]

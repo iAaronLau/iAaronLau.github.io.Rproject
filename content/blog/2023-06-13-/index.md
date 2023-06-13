@@ -32,7 +32,7 @@ After reading the best article on the college entrance examination for this year
 
 This phenomenon reminded me of nonsense culture — say something for five minutes but expressed nonsense.  Getting a height like this requires the man to have extreme attainments, not only remembering the words like surge and majestic but also having the ability that cites anything by force.
  
-The nonsense culture is divided into two classes. One is saying something purely bureaucratical. In other words, nonsense. For example, the situation is such a situation and the specific situation depends on the specific situation. And another one aim to make you high, which puts on airs with magnificent expression, exciting the readers. The readers, after a short climax, always feel inanity.
+The nonsense culture is divided into two classes. One is saying something purely bureaucratical. In other words, nonsense. For example, the situation is such a situation and the specific situation depends on the specific situation. And another one aims to make you high, which puts on airs with magnificent expression, exciting the readers. The readers, after a short climax, always feel inanity.
 
 I am humiliated that I was taught to write nonsense articles in the past. During my undergraduate, I woke up and started to learn how to write, speak and think like a human.
 

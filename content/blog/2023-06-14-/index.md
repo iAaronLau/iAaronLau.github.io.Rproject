@@ -34,7 +34,7 @@ tags: []
 
 > Previously, a student found an object like a head of mice in a dish of pig’s foot rice. The canteen, school, and food regulatory department officials considered the object a duck’s neck.
 
-Ultimately, I have no privilege to say what it is because the Internet is not the world outside of Chinese law. I want to ask:
+Ultimately, I have no privilege to say what it is because the Internet is not the world outside of the law of certain country. I want to ask:
 
 > Why cannot it be a pig’s foot?
 

@@ -9,7 +9,7 @@ Hi there. I have a master's degree now and am seeking a Ph.D. position. My resea
 
 ### EDUCATION  
 - __M.S. in Electronic and Information Engineering__  
-Wenzhou Medical University; — 2021-2024, GPA: 3.5/4.0
+Wenzhou Medical University; — 2021-2024, GPA: 3.5/4.0  
 Ningbo Institute of Materials Technology and Engineering, CAS; — 2021-2024
 
 - __B.S. in Software Engineering__  

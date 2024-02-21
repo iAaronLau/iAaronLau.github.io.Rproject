@@ -1,6 +1,6 @@
 ---
 title: “香蕉越大，香蕉皮越大”
-author: AaronLau
+author: Shouyue Liu
 date: '2023-06-13'
 slug: ''
 categories: []

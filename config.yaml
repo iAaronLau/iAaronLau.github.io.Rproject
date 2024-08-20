@@ -58,7 +58,7 @@ params:
     - js/external-link.js
     - js/alt-title.js
     - js/header-link.js
-  description: 不知今夕是何年
+  description: 我們今天所叫做生活的，過後它便是歷史。
   footer: '&copy; [Shouyue Liu](https://iaaronlau.github.io/) 2023 | [Github](https://github.com/iaaronlau) | [Subscribe](https://iaaronlau.github.io/index.xml) | [Jinji](https://jinjipang.com)'
   highlightjsCDN: //cdn.bootcss.com
   highlightjsLang: ["r", "yaml", "tex", "shell", "python"]

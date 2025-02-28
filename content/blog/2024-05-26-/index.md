@@ -1,6 +1,6 @@
 ---
 title: 和Ob的一次骑行
-author: Shouyue Liu
+author: Aaron
 date: '2024-05-26'
 slug: ''
 categories: []

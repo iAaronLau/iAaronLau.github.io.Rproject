@@ -1,6 +1,6 @@
 ---
 title: 草坪音乐晚会的排练
-author: Shouyue Liu
+author: Aaron
 date: '2024-05-28'
 slug: ''
 categories: []

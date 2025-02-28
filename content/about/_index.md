@@ -1,6 +1,6 @@
 ---
 title: About Me
-author: Shouyue Liu
+author: Aaron
 date: "2024-04-02"
 slug: "/about"
 ---
